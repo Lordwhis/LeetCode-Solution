@@ -20,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
