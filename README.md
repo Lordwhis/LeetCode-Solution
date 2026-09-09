@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [1032-stream-of-characters](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [3870-count-commas-in-range](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0460-lfu-cache) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1032-stream-of-characters) |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
