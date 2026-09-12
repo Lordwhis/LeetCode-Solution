@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1032-stream-of-characters](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1032-stream-of-characters) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
