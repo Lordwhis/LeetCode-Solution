@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0728-self-dividing-numbers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
