@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0009-palindrome-number) |
+| [0263-ugly-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0836-rectangle-overlap](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
