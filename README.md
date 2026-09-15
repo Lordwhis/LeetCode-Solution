@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0263-ugly-number) |
+| [0371-sum-of-two-integers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0728-self-dividing-numbers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0728-self-dividing-numbers) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
+| [0371-sum-of-two-integers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
