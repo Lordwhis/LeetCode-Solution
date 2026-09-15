@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 ## Simulation
