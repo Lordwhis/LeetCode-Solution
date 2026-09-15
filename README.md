@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0118-pascals-triangle) |
+| [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1032-stream-of-characters](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1032-stream-of-characters) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0060-permutation-sequence) |
+| [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0263-ugly-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -237,4 +240,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
