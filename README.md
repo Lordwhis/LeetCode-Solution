@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0380-insert-delete-getrandom-o1) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
