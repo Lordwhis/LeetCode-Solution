@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0371-sum-of-two-integers) |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
