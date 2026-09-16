@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [0994-rotting-oranges](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Sorting
 |  |
 | ------- |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Topological Sort
 |  |
 | ------- |
