@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2080-range-frequency-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 ## Backtracking
