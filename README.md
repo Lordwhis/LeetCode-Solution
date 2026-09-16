@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2523-closest-prime-numbers-in-range) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2485-find-the-pivot-integer](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0233-number-of-digit-one) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Number Theory
 |  |
