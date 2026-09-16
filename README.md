@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [1032-stream-of-characters](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1032-stream-of-characters) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0198-house-robber) |
@@ -318,9 +320,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0089-gray-code) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
