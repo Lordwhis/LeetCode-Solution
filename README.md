@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0432-all-oone-data-structure) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 ## Backtracking
 |  |
@@ -366,4 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
