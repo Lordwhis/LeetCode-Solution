@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1386-cinema-seat-allocation](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2043-simple-bank-system](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Combinatorics
