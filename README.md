@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0262-trips-and-users) |
+| [0550-game-play-analysis-iv](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0584-find-customer-referee) |
@@ -120,7 +121,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1934-confirmation-rate) |
-| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
 | ------- |
