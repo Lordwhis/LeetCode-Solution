@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1341-movie-rating) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 ## Hash Table
