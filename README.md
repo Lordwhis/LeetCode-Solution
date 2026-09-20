@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0085-maximal-rectangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0136-single-number) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
