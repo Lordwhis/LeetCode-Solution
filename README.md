@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
+| [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0355-design-twitter) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -509,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
