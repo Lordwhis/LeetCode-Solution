@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2043-simple-bank-system](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2043-simple-bank-system) |
+| [3498-reverse-degree-of-a-string](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
 | ------- |
