@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0233-number-of-digit-one) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
