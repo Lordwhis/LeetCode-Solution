@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0056-merge-intervals) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
