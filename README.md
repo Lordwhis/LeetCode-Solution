@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2080-range-frequency-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2523-closest-prime-numbers-in-range) |
+| [3524-find-x-value-of-array-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3524-find-x-value-of-array-i) |
 ## Linked List
 |  |
 | ------- |
