@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2043-simple-bank-system](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3904-smallest-stable-index-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2043-simple-bank-system](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2080-range-frequency-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bucket Sort
 |  |
 | ------- |
