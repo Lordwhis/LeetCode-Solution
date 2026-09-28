@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Graph Theory
 |  |
 | ------- |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
