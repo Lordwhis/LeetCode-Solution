@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0056-merge-intervals) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0994-rotting-oranges) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0089-gray-code](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0089-gray-code) |
 | [1096-brace-expansion-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 ## Quicksort
@@ -553,4 +557,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
