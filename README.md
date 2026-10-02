@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0118-pascals-triangle) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0233-number-of-digit-one) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0044-wildcard-matching) |
 | [1386-cinema-seat-allocation](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
