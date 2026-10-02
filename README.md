@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0146-lru-cache) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0065-valid-number) |
 | [0115-distinct-subsequences](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0239-sliding-window-maximum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
