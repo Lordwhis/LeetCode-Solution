@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0233-number-of-digit-one) |
 | [0678-valid-parenthesis-string](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2080-range-frequency-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2080-range-frequency-queries) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Data Stream
 |  |
@@ -376,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Ordered Set
 |  |
 | ------- |
@@ -478,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Number Theory
@@ -520,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -642,4 +651,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
