@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1032-stream-of-characters](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1032-stream-of-characters) |
+| [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1476-subrectangle-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1476-subrectangle-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Ordered Set
 |  |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0207-course-schedule) |
+| [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
