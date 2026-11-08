@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1032-stream-of-characters](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1032-stream-of-characters) |
 | [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1476-subrectangle-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1476-subrectangle-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Lordwhis/LeetCode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Ordered Set
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0207-course-schedule) |
 | [1254-number-of-closed-islands](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -667,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
 |  |
 | ------- |
