@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1476-subrectangle-queries) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Lordwhis/LeetCode-Solution/tree/master/2485-find-the-pivot-integer) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0233-number-of-digit-one) |
 | [0678-valid-parenthesis-string](https://github.com/Lordwhis/LeetCode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/Lordwhis/LeetCode-Solution/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
